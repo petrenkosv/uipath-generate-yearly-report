@@ -1,13 +1,1 @@
-
-Performer/.local/*
 Data/Temp/*
-
-Dispatcher/.local/*
-Dispatcher/.local/AllDependencies.json
-Dispatcher/.local/nuget.cache
-Dispatcher/.local/PackageCache.json
-Dispatcher/.local/UiPath_Assignment_2_Dispatcher.nuget.props
-Dispatcher/.local/UiPath_Assignment_2_Dispatcher.nuget.props
-Dispatcher/.local/PackageCache.json
-Dispatcher/.local/nuget.cache
-Dispatcher/.local/AllDependencies.json

@@ -1346,11 +1346,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "UiPath_Assignment_2_Dispatcher",
-      "projectName": "UiPath_Assignment_2_Dispatcher",
-      "projectPath": "C:\\Users\\serge\\Documents\\GitHub\\uipath-generate-yearly-report\\Dispatcher\\.local",
+      "projectUniqueName": "Performer",
+      "projectName": "Performer",
+      "projectPath": "C:\\Users\\serge\\Documents\\GitHub\\uipath-generate-yearly-report\\Performer\\.local",
       "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serge\\Documents\\GitHub\\uipath-generate-yearly-report\\Dispatcher\\.local"
+      "outputPath": "C:\\Users\\serge\\Documents\\GitHub\\uipath-generate-yearly-report\\Performer\\.local"
     },
     "frameworks": {
       "net461": {
